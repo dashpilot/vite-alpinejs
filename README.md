@@ -4,7 +4,7 @@
 
 Starter template to use Vite with Alpinejs
 
-Allows you to create modular Alpine.js components using ES Modules and bundle then using Vite.js
+Allows you to create modular Alpine.js 3 components using ES Modules and bundle then using Vite.js
 
 ## How to install?
 
