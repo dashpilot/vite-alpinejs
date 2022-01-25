@@ -6,6 +6,9 @@ Starter template to use Vite with Alpinejs
 
 Allows you to create modular Alpine.js 3 components using ES Modules and bundle then using Vite.js
 
+## Demo
+https://vite-alpinejs.vercel.app 
+
 ## How to install?
 
 Click "use this template" or run: `npx degit https://github.com/dashpilot/vite-alpinejs`
