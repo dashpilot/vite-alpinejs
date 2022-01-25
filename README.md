@@ -14,7 +14,7 @@ then run `npm install` and `npm run dev`
 to bundle: `npm run build` > output will be in the `dist` folder
 
 ## Example module
-/modules/card.js:
+./modules/card.js:
 
 ```
 /* define the template inside the module */
