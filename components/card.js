@@ -9,8 +9,8 @@ const template = `
 
     <p class="tagline mt-20" x-text="name"></p>
     <div class="mt-20 mb-50">
-    <button class="button is-link is-medium mt-20" @click="test">Alert</button>
-    <a class="button is-medium mt-20" href="https://github.com/dashpilot/vite-alpinejs" target="_blank">Docs</a>
+    <button class="button is-link is-medium mt-20 mr" @click="test">Alert</button>
+    <a class="button is-medium mt-20 ml" href="https://github.com/dashpilot/vite-alpinejs" target="_blank">Docs</a>
     </div>
   </div>
 </div>
