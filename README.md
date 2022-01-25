@@ -1,6 +1,6 @@
 # vite-alpinejs
 
-<img src="/favicon.svg" height="100" /><img src="/alpine.svg" height="100" />
+<img src="/favicon.svg" height="75" /><img src="/alpine.svg" height="100" />
 
 Starter template to use Vite with Alpinejs
 
