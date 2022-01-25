@@ -1,4 +1,4 @@
-# vite-alpinejs
+# Vite Alpine.js
 
 <img src="/favicon.svg" height="75" /><img src="/alpine.svg" height="75" />
 
