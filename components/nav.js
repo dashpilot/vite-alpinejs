@@ -1,6 +1,6 @@
 const template = `
 <div x-data="navApp()">
-<nav class="navbar" role="navigation" aria-label="main navigation">
+<nav class="navbar brdr-b" role="navigation" aria-label="main navigation">
   <div id="navbarBasicExample" class="navbar-menu">
     <div class="navbar-brand">
       <a class="navbar-item">
@@ -12,7 +12,7 @@ const template = `
       <div class="navbar-item">
         <div class="buttons">
           <a class="button is-secondary mr" href="https://github.com/dashpilot/vite-alpinejs" target="_blank">
-            <strong>Docs</strong>
+            Docs
           </a>
         </div>
       </div>

@@ -1,6 +1,4 @@
 @import url("https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css");
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,700|Roboto+Condensed:400,700);
-
 
 #app{
   font-size: 18px;
@@ -8,25 +6,13 @@
 }
 
 #app h1, #app h2{
-  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 500;
   font-size: 35px;
   font-size: 45px;
   line-height: 110%;
 }
 
 .container{
-  max-width: 740px !important;
+  max-width: 640px !important;
   margin: 60px auto;
-}
-
-.mt{
-  margin-top: 20px;
-}
-
-.mr{
-  margin-right: 10px;
-}
-
-.ml{
-  margin-left: 10px;
 }
