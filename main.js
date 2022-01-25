@@ -11,7 +11,7 @@ import card from './components/card.js';
 window.cardApp = card;
 document.querySelector('#app').innerHTML += cardApp().template;
 
-import imgUrl from './vite-alpinejs.png'
+import imgUrl from './vite-alpine.png'
 document.getElementById('hero-img').src = imgUrl
 
 Alpine.start()

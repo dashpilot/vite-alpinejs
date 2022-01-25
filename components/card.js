@@ -8,7 +8,7 @@ const template = `
     <input class="input w-50" type="text" x-model="name">
 
     <p class="tagline mt-20" x-text="name"></p>
-    <div class="mt-20">
+    <div class="mt-20 mb-50">
     <button class="button is-link is-medium mt-20" @click="test">Alert</button>
     <a class="button is-medium mt-20" href="https://github.com/dashpilot/vite-alpinejs" target="_blank">Docs</a>
     </div>
