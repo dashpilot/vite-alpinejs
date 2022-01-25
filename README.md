@@ -4,4 +4,5 @@
 
 Starter template to use Vite with Alpinejs
 
+## How to install?
 Click "use this template" or run `npx degit https://github.com/dashpilot/vite-alpinejs`
