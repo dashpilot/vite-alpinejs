@@ -53,6 +53,9 @@ In main.js, import the module and add the template to the page:
     window.cardApp = card;
     document.querySelector('#app').innerHTML += cardApp().template;
 
+## Press the :star: button
+
+Don't forget to press the :star: button to let me know I should continue improving this project.
 
 ## Preview
 <img src="/public/img/preview.jpg" />
