@@ -1,6 +1,6 @@
 # vite-alpinejs
 
-![Vite Alpinejs](/favicon.svg)
+<img src="/favicon.svg" width="100" />
 
 Starter template to use Vite with Alpinejs
 
