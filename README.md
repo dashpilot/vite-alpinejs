@@ -13,7 +13,7 @@ then run `npm install` and `npm run dev`
 
 to bundle: `npm run build` > output will be in the `dist` folder
 
-## Example component
+## Example module
 
 ```
 /* define the template inside the module */
