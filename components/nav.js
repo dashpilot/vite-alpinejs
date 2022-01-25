@@ -7,7 +7,6 @@ const template = `
         <strong class="ml">Vite Alpinejs Starter</strong>
       </a>
     </div>
-
     <div class="navbar-end">
       <div class="navbar-item">
         <div class="buttons">
