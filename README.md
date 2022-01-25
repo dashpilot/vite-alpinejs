@@ -1,6 +1,6 @@
 # Vite Alpine.js
 
-<img src="/vite-alpine.png" height="150" />
+<img src="/public/img/vite-alpine.png" height="150" />
 
 Starter template to use Vite with Alpinejs
 
