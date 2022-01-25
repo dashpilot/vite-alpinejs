@@ -17,6 +17,7 @@ to bundle: `npm run build` > output will be in the `dist` folder
 
 ```
 /* define the template inside the module */
+
 const template = `
 <div class="container" x-data="cardApp()">
   <div class="box">
