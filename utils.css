@@ -120,20 +120,24 @@
 .w-25{
   width: 25%;
 }
-
+.w-30{
+  width: 30%;
+}
 .w-35{
   width: 35%;
 }
-
+.w-40{
+  width: 40%;
+}
+.w-45{
+  width: 45%;
+}
 .w-50{
   width: 50%;
 }
-
 .w-75{
   width: 75%;
 }
-
-
 
 .is-link{
   background-color: var(--bg-clr) !important;
@@ -163,5 +167,9 @@
 .tagline{
   font-size: 24px;
   line-height: 150%;
+  color: var(--gray-clr);
+}
+
+.gray{
   color: var(--gray-clr);
 }
