@@ -42,3 +42,10 @@ export default () => {
   }
 }
 ```
+
+In main.js, import the module and add the template to the page:
+```
+import card from './components/card.js';
+window.cardApp = card;
+document.querySelector('#app').innerHTML += cardApp().template;
+```
