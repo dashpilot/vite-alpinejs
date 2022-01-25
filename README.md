@@ -16,6 +16,7 @@ to bundle: `npm run build` > output will be in the `dist` folder
 ## Example component
 
 ```
+/* define the template inside the module */
 const template = `
 <div class="container" x-data="cardApp()">
   <div class="box">
@@ -29,7 +30,7 @@ const template = `
 
 export default () => {
   return {
-    template: template,
+    template: template, // add the template to the component's data
     name: '',
     init() {
       console.log('card component loaded');
